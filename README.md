@@ -3,7 +3,7 @@ A stunning theme for ttk based on Microsoft's Sun Valley visual style
 
 ![Light screenshot](https://github.com/rdbende/Sun-Valley-ttk-theme/blob/master/Light%20screenshot.png)
 ![Dark screenshot](https://github.com/rdbende/Sun-Valley-ttk-theme/blob/master/Dark%20screenshot.png)
-###### Yup, this isn't Windows 11, thi is KDE Plasma :)
+###### Yup, this isn't Windows 11, this is KDE Plasma :)
 
 ## Documentation
 For the documentation see the [documentation](DOCUMENTATION.pdf)!
@@ -59,7 +59,7 @@ root.mainloop()
 
 ## Examples
 I made a separate repo for the examples: [Sun-Valley-ttk-examples](https://github.com/rdbende/Sun-Valley-ttk-examples)
-Be sure to star and watch it, 'cause I'll make more examples, with awesome tips and tricks!!
+Be sure to star and watch it because I will make more examples, with awesome tips and tricks!!
 
 ## What's next?
 Check out my other themes!
