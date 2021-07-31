@@ -44,7 +44,7 @@ proc set_theme {mode} {
 
         option add *font [ttk::style lookup . -font]
         option add *Treeview.show tree
-        option add *Menu.selectcolor $colors(-fg)
+        option add *Menu.foreground $colors(-fg)
     
 	} elseif {$mode == "light"} {
 		ttk::style theme use "sun-valley-light"
@@ -83,6 +83,6 @@ proc set_theme {mode} {
 
         option add *font [ttk::style lookup . -font]
         option add *Treeview.show tree
-        option add *Menu.selectcolor $colors(-fg)
+        option add *Menu.foreground $colors(-fg)
 	}
 }
